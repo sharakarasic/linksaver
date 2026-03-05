@@ -1,0 +1,37 @@
+[
+  {
+    "id": "fd16b814-89b1-435c-a382-e53000342fb9",
+    "username": "freshuser_93471",
+    "passwordHash": "7e6e0c3079a08c5cc6036789b57e951f65f82383913ba1a49ae992544f1b4b6e"
+  },
+  {
+    "id": "e2485fe9-567c-4ee0-94bb-2229cd0eef98",
+    "username": "robertkarasic",
+    "passwordHash": "52b35fdea252af6890818465b0deaa9c05ad100ae0dc1c42c835e413b3172a2e"
+  },
+  {
+    "id": "ef422ce6-6be4-4767-80de-06d40eab0641",
+    "username": "freshuser",
+    "passwordHash": "52b35fdea252af6890818465b0deaa9c05ad100ae0dc1c42c835e413b3172a2e"
+  },
+  {
+    "id": "6cb263f4-7e33-44e7-80fb-84fe6265e597",
+    "username": "testuser",
+    "passwordHash": "52b35fdea252af6890818465b0deaa9c05ad100ae0dc1c42c835e413b3172a2e"
+  },
+  {
+    "id": "c011bb2d-19f3-4b8c-b6e0-1a5a1632c1ff",
+    "username": "sharakarasic5",
+    "passwordHash": "52b35fdea252af6890818465b0deaa9c05ad100ae0dc1c42c835e413b3172a2e"
+  },
+  {
+    "id": "fe991c9e-a9ea-4f3c-8871-fc940330a70b",
+    "username": "sharakarasic6",
+    "passwordHash": "52b35fdea252af6890818465b0deaa9c05ad100ae0dc1c42c835e413b3172a2e"
+  },
+  {
+    "id": "02859159-d50d-42a4-a92b-65c856af1dd5",
+    "username": "sharakarasic",
+    "passwordHash": "52b35fdea252af6890818465b0deaa9c05ad100ae0dc1c42c835e413b3172a2e"
+  }
+]

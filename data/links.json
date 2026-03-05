@@ -1,0 +1,192 @@
+[
+  {
+    "id": "62993013-9766-47a5-9104-bbf0d9d05fe5",
+    "url": "https://www.yahoo.com",
+    "tags": [
+      "news"
+    ],
+    "isPrivate": false,
+    "createdAt": "2026-03-03T10:59:17.306Z"
+  },
+  {
+    "id": "cc323a56-3102-40ed-90f4-49e63adf107f",
+    "url": "https://nytimes.com",
+    "tags": [
+      "news"
+    ],
+    "isPrivate": false,
+    "createdAt": "2026-03-03T10:58:35.603Z"
+  },
+  {
+    "id": "23b27b39-dd40-4dc1-ae19-898495f3e9f5",
+    "ownerId": "e2485fe9-567c-4ee0-94bb-2229cd0eef98",
+    "url": "https://www.lennysnewsletter.com/p/marc-andreessen-the-real-ai-boom",
+    "tags": [
+      {
+        "name": "ai",
+        "isPrivate": false
+      },
+      {
+        "name": "product",
+        "isPrivate": false
+      }
+    ],
+    "isPrivate": false,
+    "createdAt": 1772537230510,
+    "title": "LENNY'S NEWSLETTER: MARC ANDREESSEN: THE REAL AI BOOM"
+  },
+  {
+    "id": "f1415247-9350-43b6-8f8d-8f86af81bd65",
+    "ownerId": "02859159-d50d-42a4-a92b-65c856af1dd5",
+    "url": "https://sharakarasic.substack.com",
+    "tags": [
+      {
+        "name": "substacks",
+        "isPrivate": false
+      }
+    ],
+    "isPrivate": false,
+    "createdAt": 1772538036191,
+    "title": "ALL OVER THE PLACE:All Over the Place: Emerging Tech, Creativity, & Culture"
+  },
+  {
+    "id": "fd0f72a4-0539-4136-a1a9-16b7b223ecff",
+    "ownerId": "02859159-d50d-42a4-a92b-65c856af1dd5",
+    "url": "https://jobs.primary.vc/jobs?filter=eyJqb2JfZnVuY3Rpb25zIjpbIlByb2R1Y3QiXX0%3D",
+    "tags": [
+      {
+        "name": "jobs",
+        "isPrivate": false
+      }
+    ],
+    "isPrivate": true,
+    "createdAt": 1772539240888,
+    "title": "Jobs: Primary VC"
+  },
+  {
+    "id": "817ba6a8-28a4-43d8-ad09-cff95bbda880",
+    "ownerId": "02859159-d50d-42a4-a92b-65c856af1dd5",
+    "url": "https://www.eventbrite.com/e/from-branding-to-website-practical-ai-for-real-growth-tickets-1983924347128?aff=oddtdtcreator&fbclid=IwY2xjawQPGxhleHRuA2FlbQIxMABicmlkETFVdjJKRVpmUEJWWlNvdTlzc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHtC0vEyv6KF24m6gF1w4Mv7Cy2RhOAa04y3-DCRbmqOpmwWYYhfyXsqmYJYE_aem_7vERcg4188kLz4Tk10zsSg",
+    "tags": [
+      {
+        "name": "ai classes",
+        "isPrivate": false
+      },
+      {
+        "name": "ai",
+        "isPrivate": false
+      }
+    ],
+    "isPrivate": true,
+    "createdAt": 1772539377633,
+    "title": "From Branding to Website: Practical AI for Real Growth"
+  },
+  {
+    "id": "e1e5c892-24af-4c0b-b898-c73a7e7bffe8",
+    "ownerId": "02859159-d50d-42a4-a92b-65c856af1dd5",
+    "url": "https://replit.com/",
+    "tags": [
+      {
+        "name": "vibe coding",
+        "isPrivate": false
+      },
+      {
+        "name": "ai",
+        "isPrivate": false
+      }
+    ],
+    "isPrivate": false,
+    "createdAt": 1772539520094,
+    "title": "REPLIT"
+  },
+  {
+    "id": "b7adfacc-2280-49aa-98fb-cacdb742a211",
+    "ownerId": "02859159-d50d-42a4-a92b-65c856af1dd5",
+    "url": "https://cursor.com/",
+    "tags": [
+      {
+        "name": "vibe coding",
+        "isPrivate": false
+      },
+      {
+        "name": "ai",
+        "isPrivate": false
+      }
+    ],
+    "isPrivate": false,
+    "createdAt": 1772539594489,
+    "title": "CURSOR"
+  },
+  {
+    "id": "7804e17d-d693-4894-b392-95378aec461a",
+    "ownerId": "02859159-d50d-42a4-a92b-65c856af1dd5",
+    "url": "https://www.coderabbit.ai/",
+    "tags": [
+      {
+        "name": "ai",
+        "isPrivate": false
+      },
+      {
+        "name": "vibe coding",
+        "isPrivate": false
+      },
+      {
+        "name": "ai code review",
+        "isPrivate": false
+      }
+    ],
+    "isPrivate": false,
+    "createdAt": 1772539826195,
+    "title": "CodeRabbit"
+  },
+  {
+    "id": "42263c59-858e-4c99-a9eb-0d9db94f83d5",
+    "ownerId": "02859159-d50d-42a4-a92b-65c856af1dd5",
+    "url": "https://www.perplexity.ai/",
+    "tags": [
+      {
+        "name": "ai",
+        "isPrivate": false
+      }
+    ],
+    "isPrivate": false,
+    "createdAt": 1772539984893,
+    "title": "PERPLEXITY"
+  },
+  {
+    "id": "94bbd923-07f0-463e-8f26-dfe84fcaa37d",
+    "ownerId": "02859159-d50d-42a4-a92b-65c856af1dd5",
+    "url": "https://supabase.com/",
+    "tags": [
+      {
+        "name": "vibe coding",
+        "isPrivate": false
+      },
+      {
+        "name": "database",
+        "isPrivate": false
+      }
+    ],
+    "isPrivate": false,
+    "createdAt": 1772540090533,
+    "title": "Supabase"
+  },
+  {
+    "id": "0acd03ca-6bac-4ede-b029-96a382ffbf5b",
+    "ownerId": "02859159-d50d-42a4-a92b-65c856af1dd5",
+    "url": "https://zerovector.design/open/learn/curriculum/00-orientation",
+    "tags": [
+      {
+        "name": "ai courses",
+        "isPrivate": false
+      },
+      {
+        "name": "design",
+        "isPrivate": false
+      }
+    ],
+    "isPrivate": false,
+    "createdAt": 1772695875362,
+    "title": "The Open Vector"
+  }
+]
