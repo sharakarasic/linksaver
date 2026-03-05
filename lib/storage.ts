@@ -1,6 +1,14 @@
 import crypto from "crypto";
 import type { User, SavedLink } from "@/app/types";
 import { supabaseAdmin } from "@/lib/supabase/admin";
+import { createClient } from "@supabase/supabase-js";
+
+const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL!;
+const supabaseKey = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!;
+const key = process.env.SUPABASE_SERVICE_ROLE_KEY ?? process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!;
+
+
+export const supabase = createClient(supabaseUrl, supabaseKey);
 
 /**
  * NOTE:

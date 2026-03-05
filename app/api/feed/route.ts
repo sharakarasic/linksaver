@@ -1,3 +1,5 @@
+export const dynamic = "force-dynamic";
+export const revalidate = 0;
 import { NextResponse } from "next/server";
 import { readLinks, readUsers } from "@/lib/storage";
 import type { FeedLink, SavedLink, TagEntry, User } from "@/app/types";
